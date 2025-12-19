@@ -28,3 +28,11 @@ If you are developing a production application, we recommend using TypeScript wi
   - Phone
 
 
+
+## Q2. Counter Application With Alert
+
+- Button increases count
+- `useEffect` runs only when `count` changes
+- Shows alert when count is divisible by 3
+
+

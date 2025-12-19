@@ -35,12 +35,18 @@
 // export default App
 
 import UserData from "./components/UserData";
+import Counter from "./components/Counter";
 
 function App() {
   return (
     <>
-      <h1>UserData</h1>
+      <h1> useEffect</h1>
+
+      <hr />
       <UserData />
+
+      <hr />
+      <Counter />
     </>
   );
 }
